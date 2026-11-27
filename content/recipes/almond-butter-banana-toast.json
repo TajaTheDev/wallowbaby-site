@@ -1,0 +1,50 @@
+{
+  "title": "Almond butter banana toast fingers",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "Soft toast with a thin layer of almond butter and mashed banana, cut into fingers for a quick breakfast.",
+  "prep_min": 5,
+  "cook_min": 2,
+  "yield": "1 toddler portion",
+  "texture": "Lightly toasted (not crunchy) bread, spread very thinly, cut into finger-size strips.",
+  "ingredients": [
+    "1 slice whole-wheat bread",
+    "1 tsp smooth almond butter, thinned with 1 tsp warm water",
+    "1/4 ripe banana, mashed"
+  ],
+  "steps": [
+    "Lightly toast the bread so it's warm but still soft. Remove the crusts if they're hard.",
+    "Stir the almond butter with warm water until smooth and spreadable.",
+    "Spread a very thin layer of almond butter over the toast, then top with mashed banana.",
+    "Cut into finger-size strips."
+  ],
+  "choking": [
+    "Spread nut butter in a thin layer only. Thick nut butter can stick to the roof of the mouth and block the airway.",
+    "Never give whole nuts to children under 4."
+  ],
+  "allergens": [
+    {
+      "name": "Tree nuts",
+      "note": "Almond is a tree nut, one of the top 9 allergens. If almond is new, offer a small amount of thinned almond butter first and watch for 2 hours."
+    },
+    {
+      "name": "Wheat",
+      "note": "Contains wheat bread."
+    }
+  ],
+  "storage": "Best made fresh.",
+  "tips": [
+    "Smooth peanut butter or sunflower seed butter work the same way.",
+    "Top with a sprinkle of ground flaxseed for extra fiber."
+  ],
+  "photo": {
+    "file": "almond-butter-banana-toast.webp",
+    "alt": "Toast fingers with almond butter and banana",
+    "search": "toast almond butter banana"
+  },
+  "tags": [
+    "tree nuts",
+    "allergen introduction",
+    "breakfast"
+  ]
+}

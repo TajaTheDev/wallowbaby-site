@@ -1,0 +1,42 @@
+{
+  "title": "Red lentil and carrot puree",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "Red lentils cook down to a creamy puree in 15 minutes and bring plenty of iron and protein to a first bowl.",
+  "prep_min": 5,
+  "cook_min": 20,
+  "yield": "About 1 1/2 cups (6 to 8 baby portions)",
+  "texture": "Smooth and creamy. Red lentils break down completely, so blending gives a velvety texture. Thin as needed.",
+  "ingredients": [
+    "1/4 cup dried red lentils, rinsed",
+    "1 medium carrot, peeled and sliced",
+    "1 1/4 cups water",
+    "Breast milk, prepared infant formula or water, to thin"
+  ],
+  "steps": [
+    "Put the lentils, carrot and water in a small saucepan and bring to a boil.",
+    "Lower the heat and simmer, partly covered, for 15 to 20 minutes, until the lentils are mushy and the carrot is very soft. Add a splash of water if it gets dry.",
+    "Blend until smooth, thinning to a spoonable texture.",
+    "Cool to lukewarm and check the temperature before serving."
+  ],
+  "choking": [
+    "Blend until there are no firm carrot pieces.",
+    "Pick over the dry lentils for tiny stones before rinsing."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 2 days in a sealed container, or freeze in an ice-cube tray, then bag the cubes, up to 1 month. Thaw in the fridge and warm gently. Stir and check the temperature before serving.",
+  "tips": [
+    "Serve with a vitamin C food, like a spoonful of mashed strawberry or pureed broccoli, to help baby absorb the iron.",
+    "Lentils can make some babies gassy at first. Start with a few spoonfuls."
+  ],
+  "photo": {
+    "file": "red-lentil-carrot-puree.webp",
+    "alt": "Bowl of orange red lentil and carrot puree",
+    "search": "red lentil puree"
+  },
+  "tags": [
+    "iron rich",
+    "plant protein",
+    "freezer friendly"
+  ]
+}

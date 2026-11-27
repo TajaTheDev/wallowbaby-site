@@ -19,6 +19,8 @@ public/                  <- the live website (deploy this folder)
 content/recipes/*.json   one file per recipe (the source of truth)
 tools/recipes.py         recipe generator (Python standard library only)
 tools/partials.py        shared head/header/footer used by the generator
+tools/starter_guide.py   builds the Starter Guide PDF from the recipe files
+deliverables/            the Starter Guide PDF (upload to Kit, not published on the site)
 ```
 
 ## Deploy (Cloudflare Pages, free)
@@ -58,8 +60,19 @@ git add -A; git commit -m "Add sweet potato and lentil mash"; git push
 - **Directions** (`how-to-use/`, `safety/`, FAQ "Is it safe for my baby?"): pending the pediatric + regulatory review of the label. These must match the printed label word for word.
 - **Ingredients:** confirm the tincture's extraction liquid and strength with the manufacturer. If it contains alcohol, list it.
 - **FAQ:** how many applications a bottle gives.
-- **Photos:** home page (2), recipe photos, Starter Guide cover (`assets/img/starter-guide-cover.webp`).
+- **Photos:** home page (2) and recipe photos (24 slots, search words on each card).
 - **Kit:** create the Starter Guide form + delivery email, then paste its ID into `site.js`.
+
+## Weaning Recipe Starter Guide (the Kit freebie)
+
+```powershell
+py -m pip install reportlab segno fonttools brotli pillow
+py tools\starter_guide.py
+```
+Writes `deliverables/Wallow-Weaning-Recipe-Starter-Guide.pdf` (10 pages: safety basics, texture-by-age chart, the
+"not before 12 months" list, choking-prep table, top-9 allergen tracker, 8 recipes, QR to /recipes/). Recipe pages
+are pulled from `content/recipes/*.json`, so edit a recipe once and rebuild both. Upload the PDF in Kit as the
+form's incentive email download. Rebuild after recipe edits and re-upload.
 
 ## Short links (`public/_redirects`)
 `/buy` and `/amazon` -> Amazon listing · `/qr` -> recipes · `/guide`, `/free` -> Starter Guide · `/directions` -> How to use · `/warnings` -> Safety.

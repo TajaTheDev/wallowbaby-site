@@ -1,0 +1,61 @@
+{
+  "title": "Shrimp and veggie fried rice",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "A quick, mild fried rice with finely chopped shrimp, egg and veggies: a family dinner that's toddler-friendly.",
+  "prep_min": 10,
+  "cook_min": 10,
+  "yield": "About 4 toddler portions (or 2 adult portions)",
+  "texture": "Soft cooked rice with small, tender pieces of shrimp, egg and vegetables. Chop the shrimp small.",
+  "ingredients": [
+    "1 cup cooked rice, cooled",
+    "4 oz raw shrimp, peeled and deveined",
+    "1 large egg, beaten",
+    "1/2 cup frozen peas and diced carrots",
+    "1 tsp oil",
+    "1/2 tsp low-sodium soy sauce (optional)"
+  ],
+  "steps": [
+    "Cook the shrimp in the oil in a nonstick pan for 2 to 3 minutes until pink and opaque all the way through. Remove and chop finely.",
+    "Add the peas and carrots and cook for 3 to 4 minutes until soft.",
+    "Push the vegetables aside, pour in the egg and scramble until fully set.",
+    "Add the rice and shrimp, stir-fry for 2 minutes until hot, and stir in the soy sauce if using. Cool before serving."
+  ],
+  "choking": [
+    "Chop shrimp into very small pieces: whole shrimp are firm and rubbery.",
+    "Squash the peas with a fork for younger toddlers."
+  ],
+  "allergens": [
+    {
+      "name": "Shellfish",
+      "note": "Shrimp is a shellfish, one of the top 9 allergens. If it's new, offer a small piece of plain cooked shrimp first and watch your child for 2 hours."
+    },
+    {
+      "name": "Egg",
+      "note": "Contains egg."
+    },
+    {
+      "name": "Soy (if using soy sauce)",
+      "note": "Soy sauce contains soy and usually wheat. Leave it out if needed."
+    },
+    {
+      "name": "Wheat (if using soy sauce)",
+      "note": "Most soy sauce contains wheat; tamari is a wheat-free option."
+    }
+  ],
+  "storage": "Cool quickly and refrigerate within 1 hour. Keeps 1 day in the fridge. Reheat until steaming hot all the way through, then cool. Don't reheat rice more than once.",
+  "tips": [
+    "Leftover rice from the day before works best: it fries without going mushy.",
+    "Toddlers still need very little salt, so keep soy sauce to a splash."
+  ],
+  "photo": {
+    "file": "shrimp-veggie-fried-rice.webp",
+    "alt": "Fried rice with shrimp, egg and peas in a toddler bowl",
+    "search": "shrimp fried rice"
+  },
+  "tags": [
+    "shellfish",
+    "allergen introduction",
+    "family meal"
+  ]
+}

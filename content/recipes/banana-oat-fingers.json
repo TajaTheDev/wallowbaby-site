@@ -1,0 +1,41 @@
+{
+  "title": "Soft banana oat fingers",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Two-ingredient baked oat fingers that are soft enough for new eaters and perfect for little hands.",
+  "prep_min": 10,
+  "cook_min": 20,
+  "yield": "About 12 fingers",
+  "texture": "Soft and moist, like a dense banana bread. A finger should squash easily when pressed.",
+  "ingredients": [
+    "2 very ripe bananas",
+    "1 cup quick oats",
+    "1/4 tsp ground cinnamon (optional)"
+  ],
+  "steps": [
+    "Heat the oven to 350°F (175°C) and line a small baking dish (about 8 x 8 in) with parchment.",
+    "Mash the bananas well, then stir in the oats and cinnamon. Let it sit 5 minutes so the oats soften.",
+    "Press the mixture into the dish about 1/2 inch thick.",
+    "Bake for 18 to 20 minutes until just set. Cool completely, then cut into finger-size strips."
+  ],
+  "choking": [
+    "Don't overbake: dry, crunchy edges are harder for babies to manage. Trim them off if they crisp.",
+    "Use quick oats so the fingers hold together softly."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 3 days in a sealed container, or freeze individually up to 1 month.",
+  "tips": [
+    "Oats are naturally gluten-free but are often processed with wheat; choose certified gluten-free oats if you need to.",
+    "Stir in 2 tbsp grated apple or mashed berries for variety."
+  ],
+  "photo": {
+    "file": "banana-oat-fingers.webp",
+    "alt": "Soft banana oat bars cut into fingers",
+    "search": "banana oat bars"
+  },
+  "tags": [
+    "finger food",
+    "breakfast",
+    "no added sugar"
+  ]
+}

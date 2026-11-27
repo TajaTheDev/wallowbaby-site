@@ -1,0 +1,40 @@
+{
+  "title": "Iron-fortified oat cereal with pear",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "Creamy infant oat cereal stirred with soft pear: an easy way to get iron into the first months of solids.",
+  "prep_min": 5,
+  "cook_min": 8,
+  "yield": "1 to 2 baby portions",
+  "texture": "Smooth and runny at first, like a thick soup. Make it thicker over the following weeks by adding less liquid.",
+  "ingredients": [
+    "1 small ripe pear, peeled, cored and chopped",
+    "2 tbsp iron-fortified infant oat cereal",
+    "3 to 4 tbsp breast milk or prepared infant formula"
+  ],
+  "steps": [
+    "Steam the pear for 5 to 8 minutes until very soft, then mash or blend until smooth.",
+    "In a small bowl, stir the infant cereal with the breast milk or formula until smooth.",
+    "Stir in 1 to 2 tablespoons of the pear puree. Adjust with more liquid for a runnier texture.",
+    "Serve right away: infant cereal thickens as it sits."
+  ],
+  "choking": [
+    "Use infant cereal (it dissolves smoothly), not regular rolled oats, at this stage.",
+    "Cook the pear until it mashes with no hard pieces."
+  ],
+  "allergens": [],
+  "storage": "Make the cereal fresh each time. Pear puree keeps 2 days in the fridge or 1 month frozen in an ice-cube tray.",
+  "tips": [
+    "Babies' iron stores start running low around 6 months, so iron-fortified cereals, lentils, meat and fish are great early foods.",
+    "Oat cereal is a good everyday choice: it's lower in arsenic than rice cereal."
+  ],
+  "photo": {
+    "file": "pear-oat-cereal.webp",
+    "alt": "Infant oat cereal topped with pear puree in a baby bowl",
+    "search": "baby oatmeal cereal bowl"
+  },
+  "tags": [
+    "iron rich",
+    "breakfast"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Tender chicken with carrots and peas",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Poached chicken thigh, shredded fine, with soft diced carrot and squashed peas: a simple, iron-rich plate.",
+  "prep_min": 10,
+  "cook_min": 25,
+  "yield": "About 4 baby portions",
+  "texture": "Finely shredded, moist chicken and small, soft vegetable pieces baby can pick up. Everything should squash between your fingers.",
+  "ingredients": [
+    "1 boneless, skinless chicken thigh",
+    "1 small carrot, peeled and diced small",
+    "1/4 cup frozen peas",
+    "1 cup water",
+    "1 tsp olive oil"
+  ],
+  "steps": [
+    "Put the chicken in a small pan with the water. Bring to a simmer, cover and poach for 15 to 18 minutes until cooked through (165°F / 74°C). Keep the cooking liquid.",
+    "Steam or boil the carrot for 10 minutes and the peas for 4 minutes, until very soft.",
+    "Shred the chicken very finely with two forks, discarding any fat or gristle. Moisten with a spoonful of the cooking liquid and the oil.",
+    "Flatten each pea with a fork. Serve the chicken and vegetables in small piles for baby to explore."
+  ],
+  "choking": [
+    "Shred chicken into fine, moist strands. Chunks of meat are a choking risk.",
+    "Squash every pea: round foods can block a small airway."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 2 days, or freeze up to 1 month. Reheat until steaming hot, then cool before serving.",
+  "tips": [
+    "Thigh meat stays more tender and moist than breast meat, and has more iron.",
+    "Save the poaching liquid (no salt added) to moisten mashes."
+  ],
+  "photo": {
+    "file": "shredded-chicken-veggies.webp",
+    "alt": "Shredded chicken with diced carrots and peas on a baby plate",
+    "search": "toddler plate chicken carrots peas"
+  },
+  "tags": [
+    "iron rich",
+    "finger food"
+  ]
+}

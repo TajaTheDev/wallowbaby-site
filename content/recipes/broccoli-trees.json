@@ -1,0 +1,43 @@
+{
+  "title": "Soft steamed broccoli trees",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Big, soft broccoli florets with a built-in handle: an easy first finger food for little fists.",
+  "prep_min": 5,
+  "cook_min": 8,
+  "yield": "About 6 florets",
+  "texture": "Very soft: the head should squash flat when you press it between your thumb and finger. Leave a long stalk as a handle.",
+  "ingredients": [
+    "1 small head broccoli, cut into large florets with long stalks",
+    "1 tsp olive oil or a little unsalted butter (optional)"
+  ],
+  "steps": [
+    "Steam the florets for 7 to 10 minutes, until very tender and easily pierced through the stalk.",
+    "Test one: press the head between your thumb and finger. If it doesn't squash easily, steam a few minutes more.",
+    "Toss with a little olive oil or melted butter if you like, then cool before serving."
+  ],
+  "choking": [
+    "Serve large florets, not small pieces: a long stalk is easier for baby to hold and gnaw.",
+    "Undercooked broccoli is too firm. It must squash easily."
+  ],
+  "allergens": [
+    {
+      "name": "Milk (if using butter)",
+      "note": "Leave out the butter or use olive oil if your baby hasn't had dairy yet."
+    }
+  ],
+  "storage": "Fridge up to 2 days. Reheat by steaming briefly, then cool. Freezing makes them soggy but fine for mashing.",
+  "tips": [
+    "Cauliflower and green beans (very soft, whole) work the same way.",
+    "Expect some broccoli to end up everywhere but baby's mouth. Playing with food is part of learning."
+  ],
+  "photo": {
+    "file": "broccoli-trees.webp",
+    "alt": "Steamed broccoli florets on a baby plate",
+    "search": "steamed broccoli florets"
+  },
+  "tags": [
+    "finger food",
+    "vegetables"
+  ]
+}

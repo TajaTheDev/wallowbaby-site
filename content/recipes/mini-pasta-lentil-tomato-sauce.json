@@ -1,0 +1,49 @@
+{
+  "title": "Mini pasta with lentil tomato sauce",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Tiny pasta in a smooth, salt-free tomato and lentil sauce that the whole family can eat.",
+  "prep_min": 10,
+  "cook_min": 25,
+  "yield": "About 4 baby portions (and sauce to spare)",
+  "texture": "Small, soft-cooked pasta shapes coated in a smooth sauce. Cook the pasta a few minutes past al dente so it squashes easily.",
+  "ingredients": [
+    "1/4 cup dried red lentils, rinsed",
+    "1 can (14 oz) no-salt-added crushed tomatoes",
+    "1/2 small onion, finely grated",
+    "1 tsp olive oil",
+    "1/2 cup water",
+    "1/2 cup small pasta shapes (like orzo, stelline or small shells)"
+  ],
+  "steps": [
+    "Warm the oil in a saucepan and cook the grated onion for 3 minutes until soft.",
+    "Add the lentils, tomatoes and water. Simmer, stirring now and then, for 18 to 20 minutes until the lentils are soft. Blend until smooth.",
+    "Meanwhile, cook the pasta in unsalted water for 2 to 3 minutes longer than the package says. Drain.",
+    "Stir 2 to 3 tablespoons of sauce into a small portion of pasta. Cool before serving."
+  ],
+  "choking": [
+    "Use small shapes and cook them extra soft.",
+    "Grate the onion so there are no firm pieces in the sauce."
+  ],
+  "allergens": [
+    {
+      "name": "Wheat",
+      "note": "Most pasta is made from wheat. Introduce wheat in a simple form (like soft toast or plain pasta) first if it's new."
+    }
+  ],
+  "storage": "Sauce keeps 3 days in the fridge or 2 months frozen. Cook pasta fresh, or store cooked pasta in the fridge for 2 days.",
+  "tips": [
+    "Season the grown-ups' portion after you've taken baby's out.",
+    "Use chickpea or lentil pasta for extra protein (check for allergens)."
+  ],
+  "photo": {
+    "file": "mini-pasta-lentil-tomato-sauce.webp",
+    "alt": "Small pasta shapes in tomato sauce in a baby bowl",
+    "search": "toddler pasta tomato sauce"
+  },
+  "tags": [
+    "family meal",
+    "iron rich",
+    "freezer friendly"
+  ]
+}

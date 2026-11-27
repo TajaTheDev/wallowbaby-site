@@ -1,0 +1,47 @@
+{
+  "title": "Soft tofu bites",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Gently pan-cooked cubes of tofu, golden outside and soft inside: an easy plant protein for pincer-grasp practice.",
+  "prep_min": 5,
+  "cook_min": 8,
+  "yield": "About 3 baby portions",
+  "texture": "Small cubes, about the size of a pea or a little bigger, soft enough to squash. The outside should be lightly golden, not hard or crunchy.",
+  "ingredients": [
+    "4 oz firm tofu",
+    "1 tsp olive oil or avocado oil",
+    "Pinch of mild paprika or garlic powder (optional, no salt)"
+  ],
+  "steps": [
+    "Pat the tofu dry with a clean towel and cut into small cubes.",
+    "Warm the oil in a nonstick pan over medium heat.",
+    "Add the tofu and cook for 6 to 8 minutes, turning, until lightly golden.",
+    "Sprinkle with spice if using. Cool and check the texture: squash one to make sure it's soft inside."
+  ],
+  "choking": [
+    "Keep the cubes small and soft. Don't cook until crunchy.",
+    "For younger 10-month-olds, serve the tofu in thicker strips to hold instead of cubes."
+  ],
+  "allergens": [
+    {
+      "name": "Soy",
+      "note": "Tofu is made from soybeans, one of the top 9 allergens. If soy is new, offer a small amount first and watch your baby for 2 hours."
+    }
+  ],
+  "storage": "Fridge up to 2 days. Warm briefly in a pan. Freezing changes the texture, so it's best fresh.",
+  "tips": [
+    "Silken tofu blended with fruit makes a smooth, creamy option for younger babies.",
+    "Tofu is a good source of protein, calcium and iron."
+  ],
+  "photo": {
+    "file": "crispy-soft-tofu-bites.webp",
+    "alt": "Small golden tofu cubes on a baby plate",
+    "search": "pan fried tofu cubes"
+  },
+  "tags": [
+    "soy",
+    "allergen introduction",
+    "plant protein",
+    "finger food"
+  ]
+}

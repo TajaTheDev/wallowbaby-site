@@ -37,11 +37,11 @@ SOURCES = [
 
 # Top 9 US allergens -> words that signal them in an ingredient line
 ALLERGEN_WORDS = {
-    "Milk": r"(?<!breast )\b(milk|yogurt|yoghurt|cheese|butter|cream|ricotta|cottage|kefir|ghee)\b",
+    "Milk": r"(?<!breast )(?<!coconut )\b(milk|yogurt|yoghurt|cheese|cream|ricotta|cottage|kefir|ghee|parmesan|mozzarella|cheddar)\b|(?<!peanut )(?<!almond )(?<!nut )(?<!seed )\bbutter\b",
     "Egg": r"\begg",
     "Peanut": r"\bpeanut",
     "Tree nuts": r"\b(almond|cashew|walnut|pecan|hazelnut|pistachio|macadamia|brazil nut)",
-    "Wheat": r"\b(wheat|flour|pasta|bread|couscous|semolina|noodle)",
+    "Wheat": r"\b(wheat|flour|pasta|bread|couscous|semolina|noodle|macaroni|tortilla)",
     "Soy": r"\b(soy|tofu|edamame|tempeh|miso)\b",
     "Fish": r"\b(fish|salmon|cod|tuna|trout|sardine|haddock|tilapia|pollock)\b",
     "Shellfish": r"\b(shrimp|prawn|crab|lobster|scallop|clam|mussel|oyster)",
@@ -53,8 +53,8 @@ HARD_STOPS = [
     (r"\b(whole nuts?|whole peanuts?|popcorn|hard candy|whole grapes?)\b", 48, "a high-risk choking food"),
 ]
 WARNINGS = [
-    (r"\bjuice\b", 12, "juice is not recommended before 12 months (CDC)"),
-    (r"\b(salt|soy sauce|stock cube|bouillon)\b", 12, "added salt: keep it out before 12 months"),
+    (r"\b(?<!lemon )(?<!lime )juice\b", 12, "juice is not recommended before 12 months (CDC)"),
+    (r"(?<!no-)\b(salt|soy sauce|stock cube|bouillon)\b", 12, "added salt: keep it out before 12 months"),
     (r"\b(sugar|syrup|agave|sweetened)\b", 24, "added sugars are not recommended for babies and toddlers"),
     (r"\bgrapes?\b", 48, "grapes: say 'quartered lengthwise'"),
     (r"\bcherry tomato", 48, "cherry tomatoes: say 'quartered'"),
@@ -94,10 +94,14 @@ def lint(recipes):
             errors.append(f"{name}: duplicate slug {r['slug']}")
         slugs.add(r["slug"])
         text = " ".join(r.get("ingredients", []) + r.get("steps", [])).lower()
+        # ignore safe phrasing like "no salt needed", "no added sugar or salt", "no-salt-added"
+        text = re.sub(r"\bno(-| )(added )?(sugar|salt)( or (salt|sugar))?(-added)?\b", " ", text)
         for pat, min_age, msg in HARD_STOPS:
             if re.search(pat, text) and r["age"] < min_age:
                 errors.append(f"{name}: {msg}")
         for pat, min_age, msg in WARNINGS:
+            if "nut butter" in msg and re.search(r"\bthin", text):
+                continue  # recipe already tells parents to thin it
             if re.search(pat, text) and r["age"] < min_age:
                 warns.append(f"{name}: {msg}")
         declared = {a["name"].split(" (")[0] for a in r.get("allergens", [])}
@@ -141,7 +145,7 @@ def card(r):
 
 
 OPTIN = """<aside class="optin bg-sun-soft">
-  <div class="placeholder"><b>[Starter Guide cover]</b><span>Add cover image: <code>assets/img/starter-guide-cover.webp</code></span></div>
+  <img src="/assets/img/starter-guide-cover.webp" width="680" height="880" loading="lazy" alt="Weaning Recipe Starter Guide cover" style="border:3px solid var(--ink);border-radius:14px;transform:rotate(-3deg);background:#fff">
   <div class="stack" style="gap:12px">
     <p class="eyebrow">Free download</p>
     <h2 style="font-size:clamp(28px,3.4vw,38px)">The Weaning Recipe Starter Guide</h2>

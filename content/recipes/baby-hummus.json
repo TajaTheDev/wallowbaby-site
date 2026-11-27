@@ -1,0 +1,47 @@
+{
+  "title": "Easy baby hummus",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Smooth, mild hummus with no added salt: great on a spoon, and a simple way to introduce sesame.",
+  "prep_min": 10,
+  "cook_min": 0,
+  "yield": "About 1 cup",
+  "texture": "Thick and smooth, slightly lumpy is fine at 8 months. Serve on a pre-loaded spoon or spread thinly on a soft toast strip.",
+  "ingredients": [
+    "1 can (15 oz) no-salt-added chickpeas, drained and rinsed",
+    "1 tbsp tahini (sesame paste), well stirred",
+    "1 tbsp olive oil",
+    "1 tsp lemon juice",
+    "2 to 4 tbsp water"
+  ],
+  "steps": [
+    "Put everything except the water in a blender or food processor.",
+    "Blend, adding water a tablespoon at a time, until smooth and creamy.",
+    "Taste and adjust: no salt needed for baby. Scoop out baby's portion, then season the rest for grown-ups if you like."
+  ],
+  "choking": [
+    "Blend until no whole chickpeas or skins remain: whole chickpeas are a choking risk.",
+    "Spread thinly. Thick dollops of any sticky spread can be hard for babies to swallow."
+  ],
+  "allergens": [
+    {
+      "name": "Sesame",
+      "note": "Tahini is made from sesame, one of the top 9 allergens. If sesame is new, offer a small amount on its own first and watch your baby for 2 hours."
+    }
+  ],
+  "storage": "Fridge up to 3 days in a sealed container. Freeze in small portions up to 1 month; stir well after thawing.",
+  "tips": [
+    "Spread on a strip of soft toast for a finger food (this adds wheat).",
+    "Stir a spoonful into pureed roasted red pepper or carrot for color."
+  ],
+  "photo": {
+    "file": "baby-hummus.webp",
+    "alt": "Bowl of smooth hummus with a baby spoon",
+    "search": "homemade hummus bowl"
+  },
+  "tags": [
+    "sesame",
+    "allergen introduction",
+    "plant protein"
+  ]
+}

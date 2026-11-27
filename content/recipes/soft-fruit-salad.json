@@ -1,0 +1,42 @@
+{
+  "title": "Soft fruit salad for little fingers",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Ripe, soft fruits cut small and safe: a colorful finger-food snack for pincer-grasp practice.",
+  "prep_min": 10,
+  "cook_min": 0,
+  "yield": "1 to 2 baby portions",
+  "texture": "Small pieces of very ripe, soft fruit that squash easily. Blueberries are smashed flat; no whole round fruit.",
+  "ingredients": [
+    "1/4 ripe banana, cut into small pieces",
+    "1/4 very ripe pear or mango, peeled and diced small",
+    "6 blueberries, smashed flat",
+    "2 ripe strawberries, finely chopped"
+  ],
+  "steps": [
+    "Wash the fruit well.",
+    "Peel the pear or mango and cut everything into small, soft pieces about the size of a pea.",
+    "Smash each blueberry flat with a fork so it's no longer round.",
+    "Put a few pieces at a time on baby's tray rather than the whole pile."
+  ],
+  "choking": [
+    "Whole blueberries, grapes and cherry tomatoes are round choking hazards: smash or quarter them lengthwise.",
+    "Skip hard fruit like raw apple. Grate it or steam it soft instead."
+  ],
+  "allergens": [],
+  "storage": "Best fresh. Cut fruit keeps a few hours covered in the fridge.",
+  "tips": [
+    "A few pieces at a time helps baby focus and stops them from overfilling their mouth.",
+    "Kiwi and ripe melon are great soft additions."
+  ],
+  "photo": {
+    "file": "soft-fruit-salad.webp",
+    "alt": "Small pieces of soft fruit on a baby tray",
+    "search": "baby finger food fruit"
+  },
+  "tags": [
+    "finger food",
+    "snack",
+    "no cook"
+  ]
+}

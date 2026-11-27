@@ -1,0 +1,46 @@
+{
+  "title": "Peanut first-taste oatmeal",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "A gentle way to introduce peanut: smooth peanut butter thinned and stirred into warm infant oat cereal.",
+  "prep_min": 5,
+  "cook_min": 2,
+  "yield": "1 baby portion",
+  "texture": "Smooth and runny with no streaks or blobs of peanut butter left. It should drip off the spoon.",
+  "ingredients": [
+    "2 tsp smooth peanut butter (just peanuts, no added sugar or salt)",
+    "2 to 3 tsp warm water",
+    "2 tbsp iron-fortified infant oat cereal",
+    "3 to 4 tbsp breast milk or prepared infant formula"
+  ],
+  "steps": [
+    "In a small bowl, stir the peanut butter with the warm water until it's completely smooth and runny.",
+    "In another bowl, mix the infant cereal with the breast milk or formula.",
+    "Stir 1 to 2 teaspoons of the thinned peanut butter into the cereal until no streaks remain.",
+    "For a first try, offer a small taste on the tip of a spoon, wait about 10 minutes, then offer the rest if all is well."
+  ],
+  "choking": [
+    "Never give peanut butter straight off the spoon or in a thick blob: it can block a baby's airway. Always thin it.",
+    "Never give whole or chopped peanuts to babies or toddlers."
+  ],
+  "allergens": [
+    {
+      "name": "Peanut",
+      "note": "If your baby has severe eczema or an egg allergy, they're at higher risk of peanut allergy: talk to your pediatrician before the first taste, as they may want allergy testing first. For other babies, the AAP supports introducing peanut early. Once it's tolerated, keep offering peanut regularly, a few times a week."
+    }
+  ],
+  "storage": "Make fresh each time. Thinned peanut butter can be covered and kept in the fridge for 2 days.",
+  "tips": [
+    "Pick a time when baby is well, at home, earlier in the day, so you can watch them for 2 hours afterwards.",
+    "Peanut powder (just ground roasted peanuts) mixed into puree is another easy option."
+  ],
+  "photo": {
+    "file": "peanut-oatmeal-first-taste.webp",
+    "alt": "Infant oatmeal swirled with thinned peanut butter",
+    "search": "baby oatmeal peanut butter"
+  },
+  "tags": [
+    "allergen introduction",
+    "peanut"
+  ]
+}

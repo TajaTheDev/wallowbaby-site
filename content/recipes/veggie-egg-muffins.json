@@ -1,0 +1,52 @@
+{
+  "title": "Veggie egg muffins",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Mini egg muffins with grated veggies and a little cheese: soft, portable and freezer-friendly.",
+  "prep_min": 10,
+  "cook_min": 15,
+  "yield": "12 mini muffins",
+  "texture": "Soft and springy, fully set in the middle. Offer whole for baby to bite or break into small soft pieces.",
+  "ingredients": [
+    "4 large eggs",
+    "1/4 cup grated zucchini, squeezed dry",
+    "1/4 cup finely chopped spinach",
+    "2 tbsp grated low-sodium mozzarella",
+    "1 tsp oil, for the pan"
+  ],
+  "steps": [
+    "Heat the oven to 350°F (175°C). Brush a 12-cup mini muffin pan with oil.",
+    "Whisk the eggs, then stir in the zucchini, spinach and cheese.",
+    "Divide among the muffin cups, filling each about three-quarters full.",
+    "Bake for 12 to 15 minutes, until set all the way through and a toothpick comes out clean. Cool before serving."
+  ],
+  "choking": [
+    "Grate or finely chop all vegetables so there are no hard pieces.",
+    "Make sure the egg is fully cooked with no runny middle."
+  ],
+  "allergens": [
+    {
+      "name": "Egg",
+      "note": "Make sure egg has been introduced before serving this recipe."
+    },
+    {
+      "name": "Milk",
+      "note": "Mozzarella is dairy. Leave it out if your baby avoids dairy."
+    }
+  ],
+  "storage": "Fridge up to 3 days, or freeze up to 2 months. Reheat until hot, then cool before serving.",
+  "tips": [
+    "Keep cheese to a small amount: most cheeses are salty.",
+    "Swap in grated carrot, finely chopped red pepper or mashed sweet potato."
+  ],
+  "photo": {
+    "file": "veggie-egg-muffins.webp",
+    "alt": "Mini egg muffins with green vegetables",
+    "search": "mini egg muffins spinach"
+  },
+  "tags": [
+    "egg",
+    "finger food",
+    "freezer friendly"
+  ]
+}

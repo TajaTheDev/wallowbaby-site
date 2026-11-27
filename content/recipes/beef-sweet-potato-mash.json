@@ -1,0 +1,42 @@
+{
+  "title": "Beef and sweet potato mash",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Tender ground beef mashed into sweet potato: a soft, iron-rich meal that's easy to batch cook.",
+  "prep_min": 10,
+  "cook_min": 25,
+  "yield": "About 2 cups (6 to 8 baby portions)",
+  "texture": "Lumpy and soft, like a thick mash with small, tender pieces of beef. Blend briefly for a smoother texture if baby is still getting used to lumps.",
+  "ingredients": [
+    "4 oz lean ground beef",
+    "1 medium sweet potato, peeled and cubed",
+    "1 tsp olive oil",
+    "1/2 cup water"
+  ],
+  "steps": [
+    "Steam or boil the sweet potato for 12 to 15 minutes until very soft.",
+    "Meanwhile, heat the oil in a pan and cook the beef over medium heat, breaking it up into the smallest crumbs you can, for 6 to 8 minutes until no pink remains (160°F / 71°C).",
+    "Add the water to the pan and simmer for 5 minutes to make the beef extra tender.",
+    "Mash the sweet potato and stir in the beef with its cooking liquid. Pulse briefly in a food processor for a finer texture."
+  ],
+  "choking": [
+    "Break the beef into very fine crumbs. Larger chunks of meat are hard for babies to chew.",
+    "Simmering in water keeps the meat moist; dry meat crumbs are harder to swallow."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 2 days in a sealed container, or freeze in an ice-cube tray, then bag the cubes, up to 1 month. Thaw in the fridge and warm gently. Stir and check the temperature before serving.",
+  "tips": [
+    "Red meat is one of the best sources of iron for babies.",
+    "Swap the beef for ground turkey or chicken thigh."
+  ],
+  "photo": {
+    "file": "beef-sweet-potato-mash.webp",
+    "alt": "Bowl of orange mash with fine beef crumbs",
+    "search": "baby food beef sweet potato"
+  },
+  "tags": [
+    "iron rich",
+    "freezer friendly",
+    "batch cooking"
+  ]
+}

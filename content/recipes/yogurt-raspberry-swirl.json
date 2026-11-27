@@ -1,0 +1,43 @@
+{
+  "title": "Yogurt and raspberry swirl",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "Plain whole-milk yogurt with mashed raspberries: a two-minute way to introduce dairy, no added sugar needed.",
+  "prep_min": 3,
+  "cook_min": 0,
+  "yield": "1 baby portion",
+  "texture": "Smooth, with the raspberries mashed and pressed through a sieve so there are no seeds or lumps for first tastes.",
+  "ingredients": [
+    "3 tbsp plain whole-milk yogurt (pasteurized, unsweetened)",
+    "4 to 5 ripe raspberries"
+  ],
+  "steps": [
+    "Mash the raspberries with a fork, then press them through a fine sieve to remove the seeds.",
+    "Swirl the raspberry puree through the yogurt.",
+    "Offer on a spoon. Serve cold or at room temperature."
+  ],
+  "choking": [
+    "Mash the raspberries fully. Sieving out the seeds keeps the texture smooth for new eaters."
+  ],
+  "allergens": [
+    {
+      "name": "Milk",
+      "note": "Yogurt is a great first dairy food: cow's milk products like yogurt and cheese can be introduced before 12 months, even though cow's milk as a drink waits until 12 months."
+    }
+  ],
+  "storage": "Best mixed fresh. Plain yogurt keeps in the fridge until its use-by date once opened, usually about a week.",
+  "tips": [
+    "Choose plain, unsweetened, whole-milk yogurt. Flavored and 'kids' yogurts often have a lot of added sugar.",
+    "Swap raspberries for mashed ripe banana, peach or mango."
+  ],
+  "photo": {
+    "file": "yogurt-raspberry-swirl.webp",
+    "alt": "Plain yogurt swirled with pink raspberry puree",
+    "search": "yogurt raspberry bowl"
+  },
+  "tags": [
+    "dairy",
+    "allergen introduction",
+    "no cook"
+  ]
+}

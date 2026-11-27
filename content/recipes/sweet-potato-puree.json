@@ -1,0 +1,39 @@
+{
+  "title": "Silky sweet potato puree",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "Naturally sweet, bright orange and freezer-friendly: one of the easiest first foods there is.",
+  "prep_min": 5,
+  "cook_min": 40,
+  "yield": "About 2 cups (8 to 10 baby portions)",
+  "texture": "Completely smooth and spoonable, like thick yogurt. Thin with breast milk, formula or water a teaspoon at a time. As baby gets used to it, mash with a fork instead of blending to make it slightly thicker.",
+  "ingredients": [
+    "1 medium sweet potato (about 10 oz)",
+    "Breast milk, prepared infant formula or water, to thin"
+  ],
+  "steps": [
+    "Heat the oven to 400°F (200°C). Wash the sweet potato and prick it all over with a fork.",
+    "Bake on a lined tray for 40 to 50 minutes, until a knife slides into the middle with no resistance.",
+    "Let it cool, then split it open and scoop the flesh into a blender or bowl. Discard the skin.",
+    "Blend or mash until smooth, adding liquid a little at a time until it drops easily off a spoon."
+  ],
+  "choking": [
+    "Blend until there are no fibrous strands or firm pieces left.",
+    "Remove every bit of skin: it doesn't break down and can stick in baby's mouth."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 2 days in a sealed container, or freeze in an ice-cube tray, then bag the cubes, up to 1 month. Thaw in the fridge and warm gently. Stir and check the temperature before serving.",
+  "tips": [
+    "Steaming works too: peel, cube and steam for 12 to 15 minutes until very soft.",
+    "Mix a cube with lentil or meat puree later on for an iron boost."
+  ],
+  "photo": {
+    "file": "sweet-potato-puree.webp",
+    "alt": "Bowl of smooth orange sweet potato puree",
+    "search": "sweet potato puree baby"
+  },
+  "tags": [
+    "first foods",
+    "freezer friendly"
+  ]
+}

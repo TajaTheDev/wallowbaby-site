@@ -1,0 +1,50 @@
+{
+  "title": "Bean and cheese quesadilla strips",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "Mashed black beans and melty cheese in a soft tortilla, cut into easy-to-hold strips.",
+  "prep_min": 5,
+  "cook_min": 6,
+  "yield": "1 to 2 toddler portions",
+  "texture": "Soft and melty, cut into strips about the width of two fingers. Mash the beans so there are no whole beans.",
+  "ingredients": [
+    "1 small whole-wheat tortilla",
+    "2 tbsp no-salt-added black beans, rinsed and mashed",
+    "2 tbsp grated mild cheddar or mozzarella",
+    "Pinch of ground cumin (optional)"
+  ],
+  "steps": [
+    "Spread the mashed beans over half the tortilla. Sprinkle with cumin and cheese.",
+    "Fold the tortilla in half and press gently.",
+    "Cook in a dry nonstick pan over medium-low heat for 2 to 3 minutes per side, until golden and the cheese has melted.",
+    "Cool for a few minutes, then cut into strips."
+  ],
+  "choking": [
+    "Mash the beans well: whole beans can be a choking risk for young toddlers.",
+    "Cool before serving; melted cheese stays very hot."
+  ],
+  "allergens": [
+    {
+      "name": "Wheat",
+      "note": "Tortillas are made from wheat (choose corn tortillas if your child avoids wheat)."
+    },
+    {
+      "name": "Milk",
+      "note": "Contains cheese."
+    }
+  ],
+  "storage": "Best fresh. Leftover strips keep 1 day in the fridge; reheat in a dry pan.",
+  "tips": [
+    "Add mashed avocado or a spoon of plain yogurt for dipping.",
+    "Mashed sweet potato instead of beans makes a sweeter version."
+  ],
+  "photo": {
+    "file": "bean-cheese-quesadilla-strips.webp",
+    "alt": "Quesadilla cut into strips on a toddler plate",
+    "search": "quesadilla strips toddler"
+  },
+  "tags": [
+    "family meal",
+    "finger food"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Soft turkey and veggie meatballs",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "Tender baked meatballs packed with grated veggies, cut into quarters for little eaters.",
+  "prep_min": 15,
+  "cook_min": 20,
+  "yield": "About 20 small meatballs",
+  "texture": "Soft and moist. Cut each meatball into quarters or small pieces, or flatten slightly so it squashes easily.",
+  "ingredients": [
+    "8 oz ground turkey",
+    "1/4 cup grated zucchini, squeezed dry",
+    "1/4 cup grated carrot",
+    "1/4 cup quick oats",
+    "1/2 tsp dried oregano"
+  ],
+  "steps": [
+    "Heat the oven to 375°F (190°C) and line a baking tray with parchment.",
+    "Mix everything together with clean hands until combined.",
+    "Roll into small balls, about 1 inch wide, and place on the tray.",
+    "Bake for 18 to 20 minutes until cooked through (165°F / 74°C). Cool, then cut into quarters before serving."
+  ],
+  "choking": [
+    "Cut meatballs into quarters: whole round meatballs are a choking risk for toddlers.",
+    "Don't overbake: dry meat is harder to chew and swallow."
+  ],
+  "allergens": [],
+  "storage": "Fridge up to 3 days, or freeze cooked meatballs up to 2 months. Reheat until hot through, then cool.",
+  "tips": [
+    "Serve with the lentil tomato sauce from our 10-month pasta recipe.",
+    "Season the grown-ups' portion separately."
+  ],
+  "photo": {
+    "file": "turkey-veggie-meatballs.webp",
+    "alt": "Small turkey meatballs cut in quarters on a toddler plate",
+    "search": "turkey meatballs toddler"
+  },
+  "tags": [
+    "family meal",
+    "freezer friendly",
+    "batch cooking"
+  ]
+}

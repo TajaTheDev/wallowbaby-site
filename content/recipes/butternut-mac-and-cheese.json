@@ -1,0 +1,51 @@
+{
+  "title": "Butternut squash mac and cheese",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "Creamy mac and cheese with hidden butternut squash and less cheese than the boxed kind.",
+  "prep_min": 10,
+  "cook_min": 25,
+  "yield": "About 4 toddler portions",
+  "texture": "Soft, small pasta shapes in a smooth sauce. Cook the pasta until very soft.",
+  "ingredients": [
+    "1 cup small macaroni or shells",
+    "1 cup peeled, cubed butternut squash",
+    "1/2 cup whole milk",
+    "1/3 cup grated mild cheddar",
+    "1 tsp unsalted butter"
+  ],
+  "steps": [
+    "Steam or boil the squash for 12 to 15 minutes until very soft.",
+    "Cook the pasta in unsalted water until soft, then drain.",
+    "Blend the squash with the milk until smooth, then warm it in the pasta pot with the butter.",
+    "Stir in the cheese until melted, then add the pasta. Cool before serving."
+  ],
+  "choking": [
+    "Use small pasta shapes and cook them soft.",
+    "Let it cool and stir well: melted cheese can stay very hot in the middle."
+  ],
+  "allergens": [
+    {
+      "name": "Wheat",
+      "note": "Regular macaroni is made from wheat."
+    },
+    {
+      "name": "Milk",
+      "note": "Contains milk, cheese and butter. Whole cow's milk is fine in food and as a drink from 12 months."
+    }
+  ],
+  "storage": "Fridge up to 3 days. Reheat with a splash of milk, stirring well, and check the temperature.",
+  "tips": [
+    "Swap squash for sweet potato or cauliflower.",
+    "Cheese is salty, so a little goes a long way for toddlers."
+  ],
+  "photo": {
+    "file": "butternut-mac-and-cheese.webp",
+    "alt": "Bowl of orange mac and cheese with small shells",
+    "search": "butternut squash mac and cheese"
+  },
+  "tags": [
+    "family meal",
+    "dairy"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Ricotta and peach mash",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Soft ricotta folded into mashed ripe peach: creamy, mild and full of protein.",
+  "prep_min": 5,
+  "cook_min": 0,
+  "yield": "1 to 2 baby portions",
+  "texture": "Soft and slightly lumpy, with small pieces of very ripe peach mashed in.",
+  "ingredients": [
+    "1/2 very ripe peach, peeled (or thawed frozen peach slices)",
+    "2 tbsp whole-milk ricotta (pasteurized)"
+  ],
+  "steps": [
+    "Peel the peach and remove the pit. Mash with a fork until soft and lumpy.",
+    "Fold in the ricotta.",
+    "Serve on a spoon, or let baby dip a soft banana finger in it."
+  ],
+  "choking": [
+    "Use only very ripe, soft peach. If it's firm, steam the slices for 3 to 5 minutes first.",
+    "Remove all skin, which can be stringy."
+  ],
+  "allergens": [
+    {
+      "name": "Milk",
+      "note": "Ricotta is a soft cheese, so introduce dairy (like plain yogurt) first if your baby hasn't had it. Choose pasteurized ricotta."
+    }
+  ],
+  "storage": "Best fresh. Leftover peach mash keeps 1 day in the fridge.",
+  "tips": [
+    "Ricotta is naturally lower in salt than most cheeses, which makes it a good baby cheese.",
+    "Pear, mango or ripe plum work just as well."
+  ],
+  "photo": {
+    "file": "ricotta-peach-mash.webp",
+    "alt": "Ricotta mashed with peach in a small bowl",
+    "search": "ricotta peach bowl"
+  },
+  "tags": [
+    "dairy",
+    "no cook"
+  ]
+}
