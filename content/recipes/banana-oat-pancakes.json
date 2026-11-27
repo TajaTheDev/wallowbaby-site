@@ -1,0 +1,40 @@
+{
+  "title": "Banana oat pancakes with smashed blueberries",
+  "age": 12,
+  "date": "2026-11-27",
+  "summary": "Three-ingredient pancakes sweetened only with banana: a breakfast the whole family can share.",
+  "prep_min": 5,
+  "cook_min": 10,
+  "yield": "About 8 small pancakes",
+  "texture": "Soft, fluffy small pancakes, cut into strips or small pieces. Blueberries are smashed flat so there are no whole round berries.",
+  "ingredients": [
+    "1 ripe banana",
+    "1 large egg",
+    "1/2 cup quick oats, blended until fine",
+    "2 to 3 tbsp whole milk, if the batter is too thick (optional)",
+    "1/4 cup blueberries, smashed with a fork",
+    "1 tsp oil, for the pan"
+  ],
+  "steps": [
+    "Mash the banana in a bowl, then whisk in the egg.",
+    "Stir in the blended oats. Let the batter rest 5 minutes to thicken; add a splash of milk if it's too thick to pour.",
+    "Warm a little oil in a nonstick pan over medium-low heat. Spoon in small pancakes, about 2 tablespoons each.",
+    "Cook 2 minutes until bubbles form, flip, and cook 1 to 2 minutes more, until cooked through in the middle.",
+    "Cool slightly, cut into strips or small pieces, and top with the smashed blueberries."
+  ],
+  "choking": [
+    "Whole blueberries are a round-food choking risk for young toddlers: smash or quarter them.",
+    "Cut pancakes into strips or small pieces and skip syrup, which makes pieces stick together."
+  ],
+  "allergens": [
+    {"name": "Egg", "note": "Make sure egg has been introduced before serving this recipe."},
+    {"name": "Milk (if used)", "note": "Whole cow's milk is fine in food and as a drink from 12 months. Leave it out or use water if your child avoids dairy."}
+  ],
+  "storage": "Fridge up to 2 days, or freeze with parchment between pancakes up to 1 month. Reheat in a toaster or pan, then cool before serving.",
+  "tips": [
+    "Oats are naturally gluten-free but are often processed alongside wheat. Choose certified gluten-free oats if your child needs to avoid gluten.",
+    "Honey is safe from 12 months, but these don't need it: ripe banana does the sweetening."
+  ],
+  "photo": {"file": "banana-oat-pancakes.webp", "alt": "Small banana oat pancakes topped with smashed blueberries", "search": "toddler banana oat pancakes blueberries"},
+  "tags": ["breakfast", "egg", "toddler food", "12 month baby food"]
+}

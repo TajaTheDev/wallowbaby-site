@@ -1,0 +1,37 @@
+{
+  "title": "Mini salmon and potato cakes",
+  "age": 10,
+  "date": "2026-11-27",
+  "summary": "Soft little fish cakes made with just salmon and potato, no flour or salt. Easy to pick up and easy to batch-freeze.",
+  "prep_min": 10,
+  "cook_min": 25,
+  "yield": "About 10 mini cakes",
+  "texture": "Soft, moist cakes that break apart easily. Serve whole for baby to hold and bite, or break into small soft pieces about the size of a pea for pincer-grasp practice.",
+  "ingredients": [
+    "1 medium potato (about 6 oz), peeled and cubed",
+    "4 oz skinless, boneless salmon fillet",
+    "1 tsp chopped fresh dill or a squeeze of lemon (optional)",
+    "1 tbsp olive oil, for the pan"
+  ],
+  "steps": [
+    "Boil the potato for 12 to 15 minutes until very soft. Drain and mash until smooth.",
+    "Meanwhile, steam or poach the salmon for 8 to 10 minutes, until it flakes easily and is opaque all the way through (145°F / 63°C).",
+    "Flake the salmon onto a plate and run your fingers through every piece to check for bones.",
+    "Mix the salmon into the potato with the dill, if using. Shape into about 10 small cakes, around 2 inches wide.",
+    "Warm the oil in a nonstick pan over medium-low heat and cook the cakes 3 minutes per side until lightly golden. Cool before serving."
+  ],
+  "choking": [
+    "Fish bones are the biggest risk here: check every flake with your fingers, even in 'boneless' fillets.",
+    "Keep the cakes soft. If the outside crisps hard, break them open and offer the soft inside."
+  ],
+  "allergens": [
+    {"name": "Fish", "note": "Fish is a common allergen. If salmon is new, offer a small taste of plain cooked salmon first. Salmon is one of the best fish choices for babies because it's low in mercury."}
+  ],
+  "storage": "Fridge up to 2 days. Freeze cooked, cooled cakes on a tray, then bag them, up to 1 month. Reheat until hot all the way through, then cool before serving.",
+  "tips": [
+    "Use leftover cooked salmon from a family dinner, as long as it was cooked without salt or spicy seasoning.",
+    "Swap the potato for sweet potato for a sweeter, more colorful cake."
+  ],
+  "photo": {"file": "salmon-potato-cakes.webp", "alt": "Small golden salmon and potato cakes on a baby plate", "search": "baby salmon cakes toddler food"},
+  "tags": ["fish", "finger food", "batch cooking", "10 month baby food"]
+}

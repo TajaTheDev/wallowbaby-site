@@ -1,0 +1,11 @@
+# Short links. The bottle QR code points at /recipes/ directly; never change or remove /recipes/.
+/buy https://www.amazon.com/dp/B0DXXF4HF5 302
+/amazon https://www.amazon.com/dp/B0DXXF4HF5 302
+/qr /recipes/ 302
+/recipe /recipes/ 301
+/RECIPES /recipes/ 301
+/Recipes /recipes/ 301
+/guide /starter-guide/ 301
+/free /starter-guide/ 301
+/directions /how-to-use/ 301
+/warnings /safety/ 301

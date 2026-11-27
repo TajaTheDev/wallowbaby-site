@@ -1,0 +1,33 @@
+{
+  "title": "Avocado and banana mash",
+  "age": 6,
+  "date": "2026-11-27",
+  "summary": "A no-cook, two-ingredient first food: creamy, mild and ready in five minutes.",
+  "prep_min": 5,
+  "cook_min": 0,
+  "yield": "2 to 3 baby portions",
+  "texture": "Very smooth, like thick yogurt, with no lumps for first tastes. Thin with a little breast milk or formula if it's too thick. Once baby handles it easily, leave it slightly thicker.",
+  "ingredients": [
+    "1/4 ripe avocado",
+    "1/4 small ripe banana (brown spots are good)",
+    "1 to 2 tsp breast milk or prepared infant formula, to thin (optional)"
+  ],
+  "steps": [
+    "Wash your hands. Scoop the avocado flesh into a small bowl.",
+    "Add the banana and mash both with a fork until completely smooth. For an extra-smooth first taste, press it through a fine sieve or use a small blender.",
+    "Stir in breast milk or formula a little at a time until it drops easily off a spoon.",
+    "Offer a few small spoonfuls. Let baby lean in for the spoon, and stop when they turn away."
+  ],
+  "choking": [
+    "Mash until there are no firm pieces of avocado left; under-ripe avocado stays in hard chunks, so only use one that dents when you press it.",
+    "Serve on a spoon or as a thin smear on a pre-loaded spoon, not as cubes, at this stage."
+  ],
+  "allergens": [],
+  "storage": "Best made fresh: avocado and banana turn brown fast. Cover the leftover with plastic wrap pressed onto the surface and use within a few hours (fridge). Don't freeze.",
+  "tips": [
+    "Brown spots on the banana mean it's sweeter and softer, so it mashes smoother.",
+    "Want to serve it baby-led? Offer a ripe avocado spear about the length of an adult finger instead, rolled in a little baby oat cereal for grip."
+  ],
+  "photo": {"file": "avocado-banana-mash.webp", "alt": "Bowl of smooth green avocado and banana mash with a baby spoon", "search": "avocado banana baby puree"},
+  "tags": ["first foods", "no cook", "6 month baby food"]
+}

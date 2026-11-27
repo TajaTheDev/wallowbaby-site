@@ -1,0 +1,36 @@
+{
+  "title": "Spinach omelet strips",
+  "age": 8,
+  "date": "2026-11-27",
+  "summary": "Soft, fully cooked egg strips with hidden greens: an easy way to keep egg in baby's week once it's been introduced.",
+  "prep_min": 5,
+  "cook_min": 6,
+  "yield": "1 omelet, about 6 strips",
+  "texture": "Soft and springy, fully set all the way through, cut into strips about the length and width of an adult finger so baby can hold one end in their fist. It should squash flat when you press it.",
+  "ingredients": [
+    "1 large egg",
+    "1 small handful baby spinach, very finely chopped",
+    "1 tsp olive oil or avocado oil"
+  ],
+  "steps": [
+    "Whisk the egg well in a small bowl, then stir in the finely chopped spinach.",
+    "Warm the oil in a small nonstick pan over medium-low heat.",
+    "Pour in the egg and swirl to make a thin layer. Cook 2 to 3 minutes until the edges set.",
+    "Flip and cook another 2 to 3 minutes, until there is no runny or glossy egg anywhere.",
+    "Let it cool, then cut into finger-length strips. Check the temperature in the middle before serving."
+  ],
+  "choking": [
+    "Chop the spinach very finely: whole leaves can stick to the roof of baby's mouth.",
+    "Cook the egg until completely firm. Runny egg isn't recommended for babies."
+  ],
+  "allergens": [
+    {"name": "Egg", "note": "Egg is one of the most common food allergens. If it's baby's first time, start with a small amount of plain, well-cooked egg on its own, then wait to see how they do before using this recipe."}
+  ],
+  "storage": "Fridge up to 2 days in a sealed container. Warm gently and check it isn't hot in the middle. Freeze cooled strips up to 1 month.",
+  "tips": [
+    "Swap spinach for finely grated zucchini (squeeze out the water first) or mashed sweet potato.",
+    "Once egg is in baby's diet, keep offering it regularly so it stays part of their routine."
+  ],
+  "photo": {"file": "spinach-omelet-strips.webp", "alt": "Strips of soft green-flecked omelet on a baby plate", "search": "baby led weaning omelet strips"},
+  "tags": ["egg", "finger food", "allergen introduction", "8 month baby food"]
+}

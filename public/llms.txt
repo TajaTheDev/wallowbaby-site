@@ -1,0 +1,22 @@
+# Wallow Baby
+
+> Wallow Baby makes Wallow Baby Weaner Serum, a bitter-tasting topical made with bitter melon (Momordica charantia) tincture, distilled water and vegetable glycerin, sold on Amazon (ASIN B0DXXF4HF5). It is a cosmetic product designed to make nursing less appealing during weaning; it does not change milk supply. The site also publishes free weaning recipes for babies, sorted by age (6, 8, 10 and 12+ months), with texture, choking and allergen notes. General information, not medical advice.
+
+## Product
+- [Wallow Baby Weaner Serum](https://wallowbaby.com/): What it is and how it works.
+- [How to use](https://wallowbaby.com/how-to-use/): Directions (always match the product label) and a gradual weaning plan.
+- [Ingredients](https://wallowbaby.com/ingredients/): Bitter melon tincture, distilled water, vegetable glycerin.
+- [Safety and warnings](https://wallowbaby.com/safety/): Warnings, when to call for help, feeding baby after weaning.
+- [FAQ](https://wallowbaby.com/faq/): Common questions.
+
+## Weaning recipes
+- [All recipes by age](https://wallowbaby.com/recipes/): Hub with the 5 safety basics (milk first until 12 months, no honey before 12 months, texture by stage, choking hazards, allergen introduction).
+<!-- recipes:start -->
+- [Avocado and banana mash](https://wallowbaby.com/recipes/avocado-banana-mash/): 6 months+. A no-cook, two-ingredient first food: creamy, mild and ready in five minutes.
+- [Spinach omelet strips](https://wallowbaby.com/recipes/spinach-omelet-strips/): 8 months+. Soft, fully cooked egg strips with hidden greens: an easy way to keep egg in baby's week once it's been introduced.
+- [Mini salmon and potato cakes](https://wallowbaby.com/recipes/salmon-potato-cakes/): 10 months+. Soft little fish cakes made with just salmon and potato, no flour or salt. Easy to pick up and easy to batch-freeze.
+- [Banana oat pancakes with smashed blueberries](https://wallowbaby.com/recipes/banana-oat-pancakes/): 12 months+. Three-ingredient pancakes sweetened only with banana: a breakfast the whole family can share.
+<!-- recipes:end -->
+
+## Free guide
+- [Weaning Recipe Starter Guide](https://wallowbaby.com/starter-guide/): Free printable recipes, texture chart and allergen tracker by email.

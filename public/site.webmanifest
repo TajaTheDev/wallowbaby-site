@@ -1,0 +1,11 @@
+{
+ "name": "Wallow Baby",
+ "short_name": "Wallow",
+ "icons": [
+  {"src": "/favicon-192x192.png", "sizes": "192x192", "type": "image/png"},
+  {"src": "/icon-512x512.png", "sizes": "512x512", "type": "image/png"}
+ ],
+ "theme_color": "#AAC5FE",
+ "background_color": "#FFF6DE",
+ "display": "browser"
+}
