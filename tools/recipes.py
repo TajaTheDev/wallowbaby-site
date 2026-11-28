@@ -274,10 +274,12 @@ def hub_page(recipes):
   <p class="eyebrow">Scanned your bottle? Welcome 💛</p>
   <h1 class="outline">Weaning recipes,<br>sorted by age</h1>
   <p class="lede">Simple first foods for 6, 8, 10 and 12+ months, with the right texture for each stage, choking checks and allergen notes on every recipe.</p>
-  <div class="chips" style="margin-top:6px">{chips}<a class="chip" href="#safety">Safety basics</a></div>
+  <div class="age-pick">
+    <p class="age-pick__label">👶 Choose your baby's age to see recipes made for their stage:</p>
+    <div class="chips">{chips}</div>
+    <p class="small">New to solids? Read the <a href="#safety">5 safety basics</a> first.</p>
+  </div>
 </div></section>
-
-<section class="section" style="padding:56px 0"><div class="wrap">{OPTIN.replace('{fid}', 'email-hub')}</div></section>
 
 <section class="section bg-ink" id="safety" style="scroll-margin-top:90px"><div class="wrap stack" style="gap:30px">
   <div class="stack" style="gap:10px"><p class="eyebrow" style="color:var(--sun)">Before you start</p><h2 style="color:var(--cream)">5 safety basics for every recipe</h2></div>
@@ -291,7 +293,7 @@ def hub_page(recipes):
   </div>
 </div></section>
 
-<nav class="age-nav noprint" aria-label="Jump to age"><div class="wrap chips">{chips}</div></nav>
+<nav class="age-nav noprint" aria-label="Choose your baby's age"><div class="wrap chips"><span class="age-nav__label">Baby's age:</span>{chips}</div></nav>
 {sections}
 
 <section class="section bg-peri-soft"><div class="wrap prose">

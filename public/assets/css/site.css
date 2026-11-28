@@ -151,6 +151,13 @@ p{margin:0}
 
 /* recipes */
 .age-nav{position:sticky;top:79px;z-index:20;background:var(--cream);border-bottom:3px solid var(--ink);padding:12px 0}
+.age-pick{background:#fff;border:3px solid var(--ink);border-radius:26px;padding:20px 24px;box-shadow:6px 6px 0 var(--ink);display:flex;flex-direction:column;gap:12px;max-width:760px;margin-top:10px}
+.age-pick__label{font-family:var(--display);font-weight:700;font-size:22px;line-height:1.2}
+.age-pick .chip{font-size:18px;padding:12px 22px;background:var(--sun)}
+.age-pick .chip:hover{background:var(--red);color:#fff}
+.age-pick .chips{display:grid;grid-template-columns:repeat(4,max-content);gap:10px}
+@media (max-width:600px){.age-pick .chips{grid-template-columns:1fr 1fr}.age-pick .chip{text-align:center;padding:12px 10px}.age-pick__label{font-size:20px}}
+.age-nav__label{font-weight:800;align-self:center;margin-right:4px}
 .age-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:26px;scroll-margin-top:150px}
 .age-badge{display:inline-grid;place-items:center;font-family:var(--display);font-weight:700;font-size:20px;line-height:1;padding:10px 16px;border-radius:16px;background:var(--sun);border:2.5px solid var(--ink)}
 .rcard{background:#fff;border:3px solid var(--ink);border-radius:26px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:var(--ink);transition:transform .15s ease,box-shadow .15s ease}
