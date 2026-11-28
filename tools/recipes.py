@@ -161,6 +161,17 @@ OPTIN = """<aside class="optin bg-sun-soft">
 </aside>"""
 
 
+SERUM_BOX = """<aside class="serum noprint" aria-label="Wallow Baby Weaner Serum">
+  <img src="/assets/img/bottle.webp" width="356" height="1200" alt="Wallow Baby Weaner Serum bottle" loading="lazy">
+  <div class="stack" style="gap:10px">
+    <p class="eyebrow">Weaning from the breast too?</p>
+    <h2 style="font-size:clamp(26px,3vw,34px);margin:0">Wallow Baby Weaner Serum</h2>
+    <p>A bitter-tasting serum made with bitter melon that helps you wean: it makes nursing a little less appealing so other comforts can take its place.</p>
+    <div class="btnrow"><a class="btn btn--red" data-amazon href="/buy">Buy on Amazon</a><a class="btn btn--ghost" href="/how-to-use/">How it works</a></div>
+  </div>
+</aside>"""
+
+
 def sources_html():
     return "<ol class=\"sources\">" + "".join(f'<li><a href="{u}" rel="noopener" target="_blank">{esc(n)}</a></li>' for n, u in SOURCES) + "</ol>"
 
@@ -240,6 +251,7 @@ def recipe_page(r, siblings):
       <h2>Storage</h2><p>{esc(r['storage'])}</p>
       {tips}
       {milk_note}
+      {SERUM_BOX}
       <div class="noprint" style="margin-top:32px">{OPTIN.replace('{fid}', 'email-' + r['slug'])}</div>
       <h2>Sources</h2>{sources_html()}
       <p class="disclaimer">General information, not medical advice. Every baby is different: check with your pediatrician before starting solids or new allergens, especially if your baby has eczema, a known allergy, or was born early.</p>

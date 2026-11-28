@@ -196,6 +196,11 @@ p{margin:0}
 .nohoney b{font-family:var(--display);font-size:22px;color:var(--sun);white-space:nowrap}
 @media print{.site-header,.site-footer,.age-nav,.optin,.noprint{display:none!important}.ingredients{position:static}body{background:#fff}}
 
+.serum{display:grid;grid-template-columns:90px 1fr;gap:26px;align-items:center;background:var(--sun);border:3px solid var(--ink);border-radius:28px;padding:24px 28px;box-shadow:8px 8px 0 var(--ink);margin:36px 0 8px}
+.serum img{width:auto;height:280px;justify-self:center}
+.serum .eyebrow{color:var(--ink)}
+@media (max-width:560px){.serum{grid-template-columns:1fr;text-align:left}.serum img{height:200px}}
+
 /* footer */
 .site-footer{background:var(--ink);color:var(--cream);padding:64px 0 40px}
 .site-footer a{color:var(--cream)}
