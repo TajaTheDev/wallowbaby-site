@@ -158,6 +158,33 @@ def recipe_block(r):
                          P(r["title"], "h2"), P(r["summary"]), two, Spacer(1, 4), notes, Spacer(1, 10)])
 
 
+SHOP_URL = "https://wallowbaby.com/go/guide"   # redirects to Amazon (swap in the Attribution link in public/_redirects)
+
+
+def bottle_png():
+    from PIL import Image
+    out = CACHE / "bottle.png"
+    if not out.exists():
+        Image.open(ROOT / "public" / "assets" / "img" / "bottle.webp").save(out)
+    return out
+
+
+def product_plug(eyebrow, title, body):
+    from reportlab.platypus import Image as RLImage
+    img = RLImage(str(bottle_png()), width=0.48 * inch, height=1.62 * inch)
+    btn = Table([[Paragraph(f'<a href="{SHOP_URL}" color="white"><b>Shop Wallow on Amazon →</b></a>',
+                            ParagraphStyle("btn", parent=S["cellb"], textColor=white, fontSize=10.5, alignment=TA_CENTER))]],
+                colWidths=[2.3 * inch])
+    btn.setStyle(TableStyle([("BACKGROUND", (0, 0), (-1, -1), RED), ("ROUNDEDCORNERS", [12, 12, 12, 12]),
+                             ("TOPPADDING", (0, 0), (-1, -1), 7), ("BOTTOMPADDING", (0, 0), (-1, -1), 8)]))
+    btn.hAlign = "LEFT"
+    text = [P(eyebrow, "eb"), P(title, "h2"), P(body, "sm"), Spacer(1, 7), btn, Spacer(1, 4),
+            P(f'<a href="{SHOP_URL}">wallowbaby.com/go/guide</a>', "sm")]
+    inner = Table([[img, text]], colWidths=[0.85 * inch, W - 2 * M - 0.85 * inch - 26])
+    inner.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "MIDDLE"), ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0)]))
+    return Box([inner], bg=SUN, pad=13, radius=14)
+
+
 def build():
     recipes = {p.stem: json.loads(p.read_text(encoding="utf-8")) for p in (ROOT / "content" / "recipes").glob("*.json")}
     picks = [("avocado-banana-mash", "red-lentil-carrot-puree"), ("spinach-omelet-strips", "beef-sweet-potato-mash"),
@@ -173,7 +200,10 @@ def build():
     # --- welcome + safety basics
     st += [P("WELCOME", "eb"), P("Let’s start with the basics", "h1"),
            P("As nursing winds down, mealtimes ramp up. This guide gives you a simple path through the first year of food: what texture to aim for at each stage, what to skip until 12 months, how to introduce allergens, and eight recipes to get you going. More recipes, sorted by age, live at <b>wallowbaby.com/recipes</b>."),
-           Spacer(1, 8)]
+           Spacer(1, 4),
+           product_plug("START YOUR WEANING JOURNEY", "Wallow Baby Weaner Serum",
+                        "A bitter-tasting serum made with bitter melon, designed to make nursing a little less appealing while you and your little one move on to the next stage. Three ingredients, 0.5 fl oz, sold on Amazon."),
+           Spacer(1, 10)]
     basics = [
         ("1. Milk first until 12 months", "Breast milk or infant formula stays your baby’s main food until 12 months. Solids add to it, they don’t replace it. Weaning from the breast before 12 months? Ask your pediatrician which infant formula to use.", PERI),
         ("2. No honey before 12 months", "Not in food, not baked in, not on a pacifier. Honey can carry the spores that cause infant botulism.", SUN),
@@ -252,6 +282,9 @@ def build():
     st += [P("KEEP GOING", "eb"), P("More recipes, sorted by age", "h1"),
            P("Find every recipe, with a choking check and allergen notes on each one, at <b>wallowbaby.com/recipes</b>. Scan to open it on your phone:"),
            Spacer(1, 6), RLImage(str(qrpng), width=1.6 * inch, height=1.6 * inch, hAlign="LEFT"), Spacer(1, 16),
+           product_plug("READY WHEN YOU ARE", "Make weaning a little easier with Wallow",
+                        "As feeds wind down, Wallow Baby Weaner Serum gives nursing a bitter taste so other comforts can take its place. Pair it with a gradual plan: drop one feed at a time and keep cuddles close. Always follow the directions and warnings on the label."),
+           Spacer(1, 16),
            P("Sources", "h2"),
            *bullets(["CDC: Choking hazards (cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html)",
                      "CDC: Foods and drinks to avoid or limit (cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html)",
