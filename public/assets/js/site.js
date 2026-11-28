@@ -5,7 +5,7 @@
 const CONFIG = {
   // Kit form IDs (the number in your Kit embed code)
   forms: {
-    starter: ""            // Weaning Recipe Starter Guide — paste Kit form ID
+    starter: "10253796"    // Weaning Recipe Starter Guide (Kit form 1bd24e3db5)
   },
   // Amazon listing. "attribution" = the query string from your Amazon Attribution
   // tag (e.g. "maas=maas_adg_XXXX&ref_=aa_maas"). Leave "" to link the plain listing.
